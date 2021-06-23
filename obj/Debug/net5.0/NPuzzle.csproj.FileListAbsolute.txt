@@ -1,0 +1,32 @@
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.exe
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.deps.json
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.runtimeconfig.json
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.runtimeconfig.dev.json
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\ref\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.pdb
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.csprojAssemblyReference.cache
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.AssemblyInfoInputs.cache
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.AssemblyInfo.cs
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\ref\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.pdb
+C:\Users\Jamie\Documents\Uni2021\Intro to AI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.genruntimeconfig.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.exe
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.deps.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.runtimeconfig.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.runtimeconfig.dev.json
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\ref\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\bin\Debug\net5.0\NPuzzle.pdb
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.csprojAssemblyReference.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.AssemblyInfoInputs.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.AssemblyInfo.cs
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\ref\NPuzzle.dll
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.pdb
+C:\Users\Jamie\Documents\Uni2021\IAI\Assignment1\NPuzzleSolver\obj\Debug\net5.0\NPuzzle.genruntimeconfig.cache
